@@ -1,4 +1,4 @@
-# meta-llama/Llama-3.3-70B-Instruct - Private, Uncensored AI for Real Creators and Devs
+# meta-llama/Llama-3.3-70B-Instruct  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
